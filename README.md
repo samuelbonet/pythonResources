@@ -13,3 +13,6 @@
 
 ### awsAutomationInstanceStart.py
 - **Descripción**: Script para automatizar la iniciación de una instancia EC2
+
+## Licencia
+- **Descripción**: Este repositorio puede ser usado libremente
