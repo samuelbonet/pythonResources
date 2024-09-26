@@ -5,6 +5,7 @@
 ## Tabla de Contenidos
 
 - [Proyectos](#proyectos)
+- [Licencia](#licencia)
 
 ## Proyectos
 
