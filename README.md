@@ -15,5 +15,8 @@
 ### awsAutomationInstanceStart.py
 - **Descripción**: Script para automatizar la iniciación de una instancia EC2
 
+### pokemon.py
+- **Descripción**: Script para aprender la POO mediante pokemon
+
 ## Licencia
 - **Descripción**: Este repositorio puede ser usado libremente
