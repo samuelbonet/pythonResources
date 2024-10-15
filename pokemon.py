@@ -52,5 +52,5 @@ def elegir_pokemon():
 pokemon_elegido = elegir_pokemon()
 
 if pokemon_elegido:
-    print(f"¡Has elegido a {pokemon_elegido.nombre}!")
+    print(f"¡Has elegido  {pokemon_elegido.nombre}!")
     pokemon_elegido.atacar()  # El Pokémon elegido usa su ataque
